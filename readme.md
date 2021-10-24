@@ -12,4 +12,4 @@
 You need to create a service account which has the proper permissions.
 The following Google Cloud IAM roles will do the trick:\
 :heavy_check_mark: Service Usage Consumer: ```roles/serviceusage.serviceUsageConsumer``` on the billing project\
-:heavy_check_mark: Organization Viewer: ```roles/resourcemanager.organizationViewer``` if using domain instead of customer_id\
+:heavy_check_mark: Organization Viewer: ```roles/resourcemanager.organizationViewer```
